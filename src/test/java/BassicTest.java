@@ -61,7 +61,7 @@ public class BassicTest {
         mobile.findElement(By.id("com.android.contacts:id/editor_menu_save_button")).click();
         //verification
         Thread.sleep(5000);
-        String result = mobile.findElements(By.id("com.android.contacts:id/large_title")).get(0).getText();
+        String result = mobile.findElement(By.id("com.android.contacts:id/large_title")).getText();
         Assertions.assertEquals(firstName+" "+lastName,result, "El contacto no se creo");
 
 
