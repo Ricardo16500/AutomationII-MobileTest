@@ -42,7 +42,7 @@ public class NewContactTest {
         String fullNameExpected = values.get(0)+" "+values.get(1);
         String fullNameResult = contactScreen.getContactName(values.get(0),values.get(1)).getText();
         String emailResult = contactScreen.getContactEmail(values.get(3)).getText();
-
+        //Asserts
         Assertions.assertEquals(fullNameExpected,fullNameResult,"EL CONTACTO NO SE CREO" );
         Assertions.assertEquals(values.get(3),emailResult,"EL CONTACTO NO SE CREO");
     }
