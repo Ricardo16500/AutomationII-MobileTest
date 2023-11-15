@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d2e11a8-21d0-4fe8-9af4-279e592129fc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/testSuite/NewContactTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testSuite/NewContactTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BassicTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BassicTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/activities/Contacts/AddNewContact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/activities/Contacts/AddNewContact.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,10 +45,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -54,6 +56,9 @@
         <option name="url" value="https://github.com/Ricardo16500/AutomationII-MobileTest" />
       </UrlAndAccount>
     </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -179,7 +184,8 @@
       <workItem from="1698978774142" duration="37000" />
       <workItem from="1698978867430" duration="5554000" />
       <workItem from="1698986061157" duration="1801000" />
-      <workItem from="1699016202474" duration="7200000" />
+      <workItem from="1699016202474" duration="8303000" />
+      <workItem from="1700073722452" duration="2642000" />
     </task>
     <servers />
   </component>

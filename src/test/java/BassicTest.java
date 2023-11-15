@@ -12,16 +12,6 @@ import java.net.URL;
 import java.time.Duration;
 
 public class BassicTest {
-    /**
-     * {
-     *   "appium:deviceName": "Modulo4",
-     *   "appium:platformVersion": "9.0",
-     *   "appium:appPackage": "com.android.contacts",
-     *   "appium:appActivity": "com.android.contacts.activities.PeopleActivity",
-     *   "platformName": "Android",
-     *   "appium:automationName": "uiautomator2"
-     * }
-     */
     AppiumDriver mobile;
     @BeforeEach
     public void openApp() throws MalformedURLException {

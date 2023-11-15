@@ -18,11 +18,6 @@ public class AddNewContact {
         return data;
     }
 
-//    public TextBox firstName = new TextBox(By.xpath("//android.widget.EditText[@text=\"First name\"]"));
-//    public TextBox lastName = new TextBox(By.xpath("//android.widget.EditText[@text=\"Last name\"]"));
-//    public TextBox phone = new TextBox(By.xpath("//android.widget.EditText[@text=\"Phone\"]"));
-//    public TextBox email = new TextBox(By.xpath("//android.widget.EditText[@text=\"Email\"]"));
-
     public Button saveBtn = new Button(By.id("com.android.contacts:id/editor_menu_save_button"));
 
 
